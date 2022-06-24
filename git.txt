@@ -1,5 +1,9 @@
 control + l=clear log
+
 To check all branch command=git branch 
-how to create new branch git checkout -b <branch-name>
+
+how to create new branch  and go in this new branch=git checkout -b <branch-name>
+
+to change branch use command = git chechout branchname
 
 
